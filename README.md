@@ -1,13 +1,14 @@
-Author: @Jaz-3-0
+# chain_nft_moralis
 
 Build a Chainlink random Nft collection with Moralis API
 
-# About
+## About
 
 Nft Building | Beginner to Expert
 
 ## Getting started
 
-----------
+--------------
 
-@Jonas-sebera
+@0xJonaseb11
+>>>>>>> 8f35156 (update init)
