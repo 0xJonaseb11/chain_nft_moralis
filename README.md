@@ -11,4 +11,3 @@ Nft Building | Beginner to Expert
 --------------
 
 @0xJonaseb11
->>>>>>> 8f35156 (update init)
